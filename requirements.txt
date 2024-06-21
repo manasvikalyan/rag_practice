@@ -11,3 +11,13 @@ tiktoken
 fitz
 pypdf
 langchainhub
+faiss-cpu
+groq
+cassio
+beautifulsoup4
+langchain-groq
+wikipedia
+arxiv
+langchainhub
+sentence_transformers
+PyPDF2
