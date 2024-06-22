@@ -1,7 +1,0 @@
-annotated frames for visualization.  
-• Text Analysis App                                                                                                                                                                                                    Dec 2023  
-• Devel oped a versatile text analysis app to calculate similarity scores (cosine similarity, BERT Score, and ROUGE Score ) between the two pdf and 
-highlighted the similar part. Additionally, it provides Text S ummarization  and Sentiment Analysis capabilities  of pdf  using pre -trained T5 models and  
-NLTK's Vader sentiment analysis tool  with visualization respectively . 
-• Used Streamlit  for user interface design and Deployed using Hugging Face Spaces. Als o, tested using Flask API.  
-• Crime Prediction                                                                                        Mar 2023

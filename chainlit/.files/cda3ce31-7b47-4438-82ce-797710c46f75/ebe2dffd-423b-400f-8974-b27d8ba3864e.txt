@@ -1,0 +1,13 @@
+MANASVI KALYAN  
+  +(91) 9027723598  | manasvikalyan63@gmail.com   | HuggingFace  | leetcode  | Github  | LinkedIn    
+Profile  
+ 
+B.Tech CSE student specializing in AI and Machine Learning, strong foundation in data structures, algorithms, and Python/C++.  CGPA of 9.09 reflecting 
+academic excellence. Passion for AI evident in projects, including Generative AI , NLP and Deep learning . 
+Work E xperience  
+ 
+Quantstech   - AI/ML, Algorithmic Trading, NLP, Streamlit, Langchain, OpenAI API, Kite Connect, REST AP I                                                Nov ‘23 – March’24 
+AI/ML Python Developer Intern  
+Task 1  
+• Develop ed a website featuring 4 features , Resume Parser utilizing Hugging Face libraries  and OpenAI API , Job Description generator , Job based 
+questions and answers generator and a Resume to Job Similarity calculator .

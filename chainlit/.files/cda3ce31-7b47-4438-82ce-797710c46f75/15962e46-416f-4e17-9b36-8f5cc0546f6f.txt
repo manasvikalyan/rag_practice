@@ -1,0 +1,9 @@
+• Solved  300+ LeetCode  DSA problems in C++.  
+• Actively contributed to the Hugging Face  community by uploading datasets, models, and  fostering collaboration and knowledge sharing.  
+Publications  
+ 
+Enhancing Legal Document Summarization for Professionals: An Extractive Approac h                       Accepted in 15th ICCCNT ‘24 – yet to be publis hed  
+(NLP, HuggingFace Transformers , Tens orFlow, Machi ne Learning, Deep L earning, LLMs)                                                                                                          
+• Developed an extractive summarization system for legal documents b y creating our own labeled datasets.  Categorizing sentences based on their similarity 
+to sentences in the corresponding summaries, using both binary (included/not included) and multi -class (Facts, Arguments, Issue, Analysis, None) labeling 
+methods.

@@ -1,0 +1,12 @@
+methods.   
+• Fine-tuned models using a combination of traditional machine learning algorithms (Random Forest Classifier, Support Vector Machine ), advanced neural 
+networks (BiLSTM, Fully Connected Neural Network), and transformer -based models (BERT, RoBERTa) to evaluate  performance metrics such as 
+precision, recall, F1 -score  for the classification task and ROUGE, BERTScore for summaries  generated.  
+Skills  
+ 
+• Technical Skills : DSA, Generative AI, Machine learning, Natural Language Processing, Deep Learning , Cloud Computing (AWS), Git,  Docker  
+• Languages :  C++, Java, Python, SQL, HTML, CSS  
+• Framework : Scikit -learn, TensorFlow, Py Torch, Streamlit, Langchain, Hugging Face , Flask, RAG, Chainlit, llama -index , Rest API  
+• Libraries:  MatPlotLib, Pandas, Plotly, Keras CV, K erasNLP , NumPy, NLTK, Spacy , OpenCV  
+• Soft Skills : Teamwork, Leadership,  Research,  Helpful  
+Education

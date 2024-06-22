@@ -1,0 +1,8 @@
+questions and answers generator and a Resume to Job Similarity calculator . 
+• Deployed using Streamlit with Langchain  and OpenAI API  for conversational text generation with memory capabilities for 100% content retrieval.   
+Task 2  
+• Created a tool with Streamlit and OpenAI API , which convert s broker documents into the company's preferred format , engage s in stock market analysis, 
+filtering data for  relevance  and formatting . Visualization and calculate s profit, loss, and drawdown within specified date ranges.  
+• Deployed findings on Streamlit for user -friendly access  with strategy generator that can analyze the data in 2/3 of time  compared to manually . 
+• Engineered data extraction and analysis of Nifty 500 dataset using YFinance library, and historical data from Zerod ha via KiteConnect API.  
+Projects
