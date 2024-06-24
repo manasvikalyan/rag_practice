@@ -21,3 +21,4 @@ arxiv
 langchainhub
 sentence_transformers
 PyPDF2
+unstructured
